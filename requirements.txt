@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+lxml
+bs4
+unicodedata2
